@@ -1,0 +1,74 @@
+
+/* Start of Navbar */
+#header-nav {
+	background-color: #898282;
+}
+
+#brand-name {
+	font-size: 35px;
+	margin-left: 25px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#navbarNav a {
+	width: 100%;
+	background: #E2C1C1;
+	text-align: center;
+	font-size: 1.2em;
+	border: 1px solid #060202;
+	margin-bottom: 5px;
+}
+
+#navbarNav a:hover {
+	box-shadow: 0 1px 5px 1px #cccccc;
+}
+
+/* End of Navbar */
+
+/* Start of Main Content */
+
+#menu-title {
+	font-size: 35px;
+	text-align: center;
+	margin: 30px;
+}
+
+.menu-box {
+	background: #B9B9B9;
+	border: 2px solid black;
+	border-radius: 5px;
+	margin: 10px auto 15px;
+}
+
+.menu-box h3 {
+	text-align: center;
+	margin-top: 10px;
+	font-size: 25px;
+}
+
+.menu-box p {
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.menu-box a {
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
